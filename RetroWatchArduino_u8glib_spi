@@ -158,7 +158,7 @@ unsigned long mode_change_timer = 0;
 #define EMER_DISPLAY_TIME 10000
 #define MSG_DISPLAY_TIME 5000
 
-PROGMEM const char* strIntro[] = {"Retro", "Watch", "Elliott T."};
+PROGMEM const char* strIntro[] = {"Retro", "Watch", "John S."};
 ///////////////////////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////////////////////
